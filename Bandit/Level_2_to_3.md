@@ -6,7 +6,7 @@ ls -al
 That lists all the files. 
 ![Image](https://github.com/user-attachments/assets/9d8b5770-bc24-4203-ba83-2d950d66ca9a)
 
-What I did then was type cat, then type a few characters of the file name. I typed *spa* and then clicked on *Tab*. Clicking on Tab will autofill the command. This is the way I solved this challenge.
+What I did then was type cat, then type a few characters of the file name. I typed *spa* and then clicked on *Tab*. Clicking on Tab will autofill the rest of the command. This is the way I solved this challenge.
 
 ```bash
 cat spa (then clicked Tab)
