@@ -1,11 +1,11 @@
-First we look at the contents of the directory using the ls command.
+First, we look at the directory's contents using the ls command.
 
 ```bash 
 ls -al
 ```
 That lists all the files. 
 
-The file "-" is interesting however we can't open it using conventional methods.
+The file "-" is interesting, however we can't open it using conventional methods.
 
 ![Image](https://github.com/user-attachments/assets/22edad62-2fce-4375-a013-6d710938f0ed)
 
