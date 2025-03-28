@@ -3,7 +3,7 @@ Level 0 -> 1
 Open a Kali Linux Terminal.
 
 ```bash
-    ssh bandit.labs.overthewire.org -p 2220 -l bandit0
+ssh bandit.labs.overthewire.org -p 2220 -l bandit0
 ```
 Type yes when asked for authenticity.
 
