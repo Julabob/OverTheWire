@@ -38,3 +38,4 @@ The additional *2>/dev/null* directs all error or permission denied files into a
 When prompted for the password, we type morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj. We can proceed to level 7.
 
 ![Image](https://github.com/user-attachments/assets/5a601b03-b682-4b7d-b424-49f0d2819696)
+![Image](https://github.com/user-attachments/assets/52b5ef83-a37d-4f25-aa8d-8e3af97cd053)
