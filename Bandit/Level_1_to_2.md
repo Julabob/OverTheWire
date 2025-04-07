@@ -14,7 +14,7 @@ Taking reference from [How to open a "-" dashed filename using terminal?](https:
 ```bash
 cat < - 
 ```
-This gives the password for Level 2. When prompted for the password, we type 263JGJPfgU6LtdEvgfWU1XP5yac29mFx. We can proceed to level 2.
+When prompted for the password, we type 263JGJPfgU6LtdEvgfWU1XP5yac29mFx. We can proceed to level 2.
 
 ![Image](https://github.com/user-attachments/assets/1773a286-ea23-4072-9fac-a5ab9fe4cc36)
 ![Image](https://github.com/user-attachments/assets/ef73574b-c2bf-4291-a86e-b3a673604b1b)
