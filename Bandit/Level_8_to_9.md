@@ -19,3 +19,6 @@ sort data.txt | uniq -u
 
 ![Image](https://github.com/user-attachments/assets/e5547998-6208-43f0-b965-0836daf3273b)
 
+When prompted for the password, we type 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM. We can proceed to level 9.
+
+![Image](https://github.com/user-attachments/assets/975b1e23-e0a3-4f25-904f-a6cc501eccb5)
