@@ -18,6 +18,6 @@ Catting (:D) the command will reveal the password.
 
 ![Image](https://github.com/user-attachments/assets/57c10232-d999-44b3-a4c0-beff5577eccf)
 
-We then proceed to Level 3.
+When prompted for the password, we type MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx. We can proceed to level 3.
 
 ![Image](https://github.com/user-attachments/assets/affcf137-1d2a-4c4d-83d1-847331b4c3c5)
