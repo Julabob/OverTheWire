@@ -9,14 +9,23 @@ We then navigate into the inhere directory.
 
 
 ```bash 
-ls -al
+cd inhere
+ls
 ```
 That lists all the files in the inhere directory. 
 
-![Image](https://github.com/user-attachments/assets/8fb1e4b3-4da9-429a-ab64-78a3403dad52)
+![Image](https://github.com/user-attachments/assets/793e3159-ee4e-4315-8c53-d8150c19ebb0)
 
-I then used the cat command to view each file until I got the human-readable file.
+We see several directories. 
+```bash 
+man find | grep "\-size"
+find -size 1033c
+cat ./maybehere07/.file2
+```
+The first line is used to search for any instances of *size* in the manual page of the *find* command. 
 
-When prompted for the password, we type HWasnPhtq9AVKe0dmk45nxy20cvUa6EG. We can proceed to level 6.
+I then used the *find* command with the specified bytes. This led to one file being shown.
 
-![Image](https://github.com/user-attachments/assets/0ca76e88-bb88-4838-8b8c-f76b2e375408)
+I then used the cat command to view the file which gave me the answer.
+
+When prompted for the password, we type HWasnPhtq9AVKe0dmk45nxy20cvUa6EG. We can proceed to level 5.

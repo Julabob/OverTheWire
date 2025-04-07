@@ -17,7 +17,7 @@ That lists all the files in the inhere directory.
 
 I then used the cat command to view each file until I got the human readable file.
 
-When prompted for the password, we type 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw. We can proceed to level 5.
+When prompted for the password, we type 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw. We can proceed to level 6.
 
 ![Image](https://github.com/user-attachments/assets/0ca76e88-bb88-4838-8b8c-f76b2e375408)
 ![Image](https://github.com/user-attachments/assets/13d88650-48a8-4f44-9fcf-549e90c79a1e)
