@@ -1,4 +1,3 @@
-
 First, we look at the directory's contents using the ls command.
 
 ```bash 
@@ -10,3 +9,5 @@ I then catted the file with grep to identify the word *millionth* as given in th
 
 ![Image](https://github.com/user-attachments/assets/d4c98a76-9fff-4f04-99e9-ab620b287b73)
 ![Image](https://github.com/user-attachments/assets/ff3f2993-acbb-47bc-8d68-7580caa50b4f)
+
+When prompted for the password, we type 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM. We can proceed to level 8.
