@@ -12,3 +12,5 @@ In the *tr* command, *'a-zA-Z'* consists of all the lowercase and uppercase lett
 ![Image](https://github.com/user-attachments/assets/1ccb0f45-0b3a-4a09-8d07-305e734de8cf)
 
 When prompted for the password, we type 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4. We can proceed to level 12.
+
+![Image](https://github.com/user-attachments/assets/b1bd1ce1-bbaf-43d4-a4a3-aab95dec50d4)
