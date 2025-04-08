@@ -1,6 +1,6 @@
 First, we look at the directory's contents using the ls command. 
 
-We hava a single file. Viewing the file gives a sequence of characters. The webiste mentions that the password is in a base64 form. Using the *base64 -d* is used to decode the base64 encoding which gives our password to the next stage.
+We hava a single file. Viewing the file gives a sequence of characters. The website mentions that the password is in a base64 form. Using the *base64 -d* is used to decode the base64 encoding which gives our password to the next stage.
 
 ```bash 
 ls
